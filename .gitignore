@@ -1,0 +1,16 @@
+infrastructure/.terraform/*
+infrastructure/.terraform.lock.hcl
+infrastructure/.terraform.lock.info
+infrastructure/.terraform.tfstate.lock.info
+infrastructure/.idea/*
+infrastructure/.idea
+infrastructure/terraform.tfvars
+infrastructure/terraform.tfstate
+.idea
+.idea/*
+.vscode
+.project
+.tmp
+.DS_Store
+*.log
+.history
