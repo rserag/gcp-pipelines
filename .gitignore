@@ -6,6 +6,7 @@ infrastructure/.idea/*
 infrastructure/.idea
 infrastructure/terraform.tfvars
 infrastructure/terraform.tfstate
+infrastructure/terraform.tfstate.backup
 .idea
 .idea/*
 .vscode
