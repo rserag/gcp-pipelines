@@ -7,7 +7,7 @@ import {
 }
 
 func IndexServer(x http.ResponseWriter, r *http.Request) {
-    fmt.Fprint(w, "Automate go server")
+    fmt.Fprint(w, "Automate goooo server")
 }
 
 func main() {
